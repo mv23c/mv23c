@@ -4,6 +4,8 @@
 
 ![mv23c GitHub stats](https://github-readme-stats.vercel.app/api?username=mv23c&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mv23c)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -21,5 +23,4 @@
     <img align="center" alt="JWT" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-
 </div>
