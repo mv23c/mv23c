@@ -1,6 +1,6 @@
 ### Olá! Sou o Mário Vinícius 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mário-vinícius-991121251)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mário-vinícius-991121251/)
 
 ![mv23c GitHub stats](https://github-readme-stats.vercel.app/api?username=mv23c&show_icons=true&theme=onedark)
 
